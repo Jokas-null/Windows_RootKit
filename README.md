@@ -1,5 +1,6 @@
 # Windows_RootKit
 A windows kernel-mode rootkit with remote control 
+For Post exploitation persistence on windows
 
 Uses DKOM and IRP Hooks.
 Hiding Processes, token manipulation , hiding tcp network connections by port
